@@ -91,23 +91,15 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
+![428277522-d813e0f3-5f62-4249-9bdf-fdaa16f94298](https://github.com/user-attachments/assets/ef902800-2af9-40ce-a1b4-4a15093f1ff3)
 
 
-![Screenshot (21)](https://github.com/user-attachments/assets/13dacfc1-53ca-4797-8c89-dae89f67a4ef)
-
-
-![Screenshot (22)](https://github.com/user-attachments/assets/95762bf6-3a5f-45d2-b238-3545b654b4b0)
-
-
-**RTL realization Output:** 
-
-![lg-lg](https://github.com/user-attachments/assets/a30c0d37-7c6b-4a2f-9a32-533b2fec149b)
 
 
 **RTL**
 
+![428277542-385f0df0-3ae2-4afa-933c-7f92814ada01](https://github.com/user-attachments/assets/a4ee8d5a-2731-4536-befa-d225e62b8746)
 
-![lg-wf0](https://github.com/user-attachments/assets/f835eaf6-41f1-4c9c-971d-9e0231e39411)
 
 
 **Result:**
